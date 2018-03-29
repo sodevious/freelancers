@@ -4,6 +4,8 @@
 
 * **[Aaron Taylor Waldman](http://taylorwaldman.com/)** Brand/Graphic Designer & Illustrator
 
+* **[Allison Skinner](http://allisondskinner.com/)** Web Design 
+
 * **[Emily Griffin](https://www.daybrighten.com/)** Art + Illustration
 
 * **[Lindsay Goldner](https://nofontsgiven.co/)** Branding, Lettering, Illustration
@@ -13,3 +15,4 @@
 * **[Flor Studio](https://flor.studio/)** UI/UX design & development for websites and web apps.
 
 * **[Ariel Cotton](http://www.argoncobalt.com/projects/)** UI/UX design, web design, visual design, illustration, front-end dev
+
