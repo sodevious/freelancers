@@ -11,3 +11,5 @@
 * **[Diana Lopez](https://diana.nu/)** Web design for small businesses
 
 * **[Flor Studio](https://flor.studio/)** UI/UX design & development for websites and web apps.
+
+* **[Ariel Cotton](http://www.argoncobalt.com/projects/)** UI/UX design, web design, visual design, illustration, front-end dev
