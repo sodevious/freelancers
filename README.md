@@ -16,3 +16,4 @@
 
 * **[Ariel Cotton](http://www.argoncobalt.com/projects/)** UI/UX design, web design, visual design, illustration, front-end dev
 
+* **[Almosteverywhere](http://almosteverywhere.github.io/)** Freelance python development, automation, machine learning
