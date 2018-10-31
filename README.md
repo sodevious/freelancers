@@ -19,3 +19,6 @@
 * **[Almosteverywhere](http://almosteverywhere.github.io/)** Freelance python development, automation, machine learning
 
 * **[Allison Tarr](https://allisontarr.com/)** Freelance front-end web development
+
+* **[Stephen Karpeles](http://stephenkarpeles.com/)** Front-end development, wordpress
+
