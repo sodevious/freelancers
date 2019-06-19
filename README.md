@@ -22,3 +22,4 @@
 
 * **[Stephen Karpeles](http://stephenkarpeles.com/)** Front-end development, wordpress
 
+* **[Tim Smith](https://ttimsmith.com/)** Podcast Editing, Screencast/Video Editing, Website Design
