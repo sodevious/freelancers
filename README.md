@@ -1,6 +1,6 @@
 # Freelancers and Contractors for Hire
 
-#### Listed in no particular order, this is a list of friends and colleagues I have worked with before and am recommending.
+#### Listed in no particular order, this is a list of friends and/or colleagues I have worked with before and am recommending.
 
 * **[Jem Turner](https://jemturner.co.uk/)** PHP/Wordpress Developer
 
