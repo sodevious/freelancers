@@ -1,5 +1,7 @@
 # Freelancers and Contractors for Hire
 
+#### Listed in no particular order, this is a list of friends and colleagues I have worked with before and am recommending.
+
 * **[Jem Turner](https://jemturner.co.uk/)** PHP/Wordpress Developer
 
 * **[Aaron Taylor Waldman](http://taylorwaldman.com/)** Brand/Graphic Designer & Illustrator
@@ -23,3 +25,5 @@
 * **[Stephen Karpeles](http://stephenkarpeles.com/)** Front-end development, wordpress
 
 * **[Tim Smith](https://ttimsmith.com/)** Podcast Editing, Screencast/Video Editing, Website Design
+
+* **[Joni Bologna](https://jonibologna.com/)** Branding and graphic design, web design 
