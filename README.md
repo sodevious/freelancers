@@ -12,9 +12,7 @@
 
 * **[Lindsay Goldner](https://nofontsgiven.co/)** Branding, Lettering, Illustration
 
-* **[Diana Lopez](https://diana.nu/)** Web design for small businesses
-
-* **[Flor Studio](https://flor.studio/)** UI/UX design & development for websites and web apps.
+* **[Diana Lopez](https://diana.nu/)** Web design for small businesses and startups
 
 * **[Ariel Cotton](http://www.argoncobalt.com/projects/)** UI/UX design, web design, visual design, illustration, front-end dev
 
